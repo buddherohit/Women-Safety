@@ -1,0 +1,40 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Flutter generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter_export_environment.sh
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+
+# Android related
+android/.gradle/
+android/app/build/
+
+# MacOS/Linux/Windows
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Firebase / sensitive files
+google-services.json
+GoogleService-Info.plist
+
+# FlutterFlow (optional)
+flutterflow/
