@@ -26,7 +26,7 @@ It enables users to send **instant alerts**, share **live location**, and access
   - Simple and intuitive interface for quick access
 
 - 🔒 **Secure & Reliable**
-  - Ensures user safety and data privacy
+  - Ensures user safety and data privacys
 
 ---
 
